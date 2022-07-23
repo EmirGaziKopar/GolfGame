@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Supercyan Free Forest Sample/Scenes/BrightDay.unity
     guid: 106025b4713992744bb2e8999d6a3608
+  - enabled: 1
+    path: Assets/SimpleNaturePack/testing.unity
+    guid: 4eab329b8352dd34ab4700f65a692568
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: abb59e1d5e8b4074abd9813caad57e7e,
       type: 2}
