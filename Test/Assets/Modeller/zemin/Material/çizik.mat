@@ -70,11 +70,11 @@ Material:
     - _OLP: 25
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Shininess: 0.078125
+    - _Shininess: 0.096
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Steps: 32
+    - _Steps: 63
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
